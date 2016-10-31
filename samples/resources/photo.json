@@ -1,0 +1,18 @@
+{
+  "id": "1a0670ac-6ac9-43c5-98ae-0deccc7e8b69",
+  "identity_id": "b333f949-7222-4a45-aebb-54c8535eed2b",
+  "created_at": "2016-10-28T12:00:00",
+  "current_version": "1",
+  "data": {
+    "1": {
+      "resource_type": "image/jpeg",
+      "created_at": "2016-10-28T12:00:00",
+      "content_url": "https://mybucket.amazon-s3.com/path/to/photo.jpg"
+    }
+  },
+  "meta": {
+    "lat": "45.000000",
+    "lng": "-73.000000",
+    "other_meta": "et cetera"
+  }
+}

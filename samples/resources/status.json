@@ -1,0 +1,30 @@
+{
+  "id": "dc33ba9b-5efe-4754-b2df-4b592d68edd5",
+  "identity_id": "b333f949-7222-4a45-aebb-54c8535eed2b",
+  "created_at": "2016-10-28T12:00:00",
+  "current_version": "2",
+  "resource_type": "text/markdown",
+  "schema_version": "1",
+  "data": {
+    "1": {
+      "created_at": "2016-10-28T12:00:00",
+      "content": "Hey @{mention#1}[Chris] and @{mention#2}[Arturo], check out this new phtoo, looks really cool huh? @{reference#1}[] ***"
+    },
+    "2": {
+      "created_at": "2016-10-28T12:05:00",
+      "content": "Hey @{mention#1}[Chris] and @{mention#2}[Arturo], check out this new photo, looks really cool huh? @{reference#1}[] ***"
+    }
+  },
+  "references": {
+    "1": "1a0670ac-6ac9-43c5-98ae-0deccc7e8b69"
+  },
+  "mentions": {
+    "1": "chris@sikkdays.com",
+    "2": "arturo@arturovm.me"
+  },
+  "meta": {
+    "lat": "45.000000",
+    "lng": "-73.000000",
+    "other_meta": "et cetera"
+  }
+}
